@@ -1,18 +1,19 @@
 export default function Highlights() {
   return (
     <>
-    <div className="announcements-title"> 
-        <span className="circle"></span>
-        Announcements
-        </div>
-     <div className="highlights">
-      <img
-        src="https://jessdobkin.com/assets/images/JD_front_cover_RGB.jpg"
-        alt="Announcement"
-        className="highlights-image"
-      />
-      <div className="highlights-text">
-        <h2 className="highlights-title">
+      <div className="highlights-announcements-title"> 
+          <span className="circle"></span>
+          Announcements
+      </div>
+      <div className="highlights">
+        <img
+          src="https://jessdobkin.com/assets/images/JD_front_cover_RGB.jpg"
+          alt="Announcement"
+          className="highlights-image"
+        />
+
+        <div className="highlights-text">
+<h2 className="highlights-title">
             Jess Dobkin’s 
             Wetrospective
         </h2>
@@ -31,6 +32,9 @@ export default function Highlights() {
         <div className="cta-button">
             RSVP Here
         </div>
+        </div>
+
+        
       </div>
 
       {/* styled-jsx block: these rules are scoped to this component */}
@@ -45,7 +49,7 @@ export default function Highlights() {
           color: white;
         }
 
-        .announcements-title{
+        .highlights-announcements-title {
           width: fit-content;
           font-size: 1rem;
           color: white;
@@ -151,7 +155,6 @@ export default function Highlights() {
           }
         }
       `}</style>
-    </div>
     </>
   )
 }
