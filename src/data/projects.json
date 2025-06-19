@@ -1,0 +1,82 @@
+[
+    {
+        "id": "the-mad-chef",
+        "year": "2023",
+        "title": "The Mad Chef",
+        "thumbnail": "https://jessdobkin.com/assets/images/mad/mad_one.jpeg",
+        "description": "Between 2000 and 2003, The Mad Chef’s interactive performances invited audiences to paint and critique cake-frosting replicas of classic artworks—then eat them—to playfully challenge notions of role and identity.",
+        "mainDescription": "As The Mad Chef (2000–2003), the artist challenges the conﬁnes of role and identity, breaking through internal boundaries in discovery of uncharted territories. Live and video installments have been presented at numerous venues. At the Jack Tilton Gallery in New York, audiences are invited to paint with coloured cake frosting, replicating historical masterpieces and sugar-coating arranged still lives. Cakes become canvases, to be critiqued and then eaten.",
+        "images": [
+            "https://jessdobkin.com/assets/images/mad/mad_one.jpeg",
+            "https://jessdobkin.com/assets/images/mad/mad_one.jpeg"
+        ]
+    },
+    {
+        "id": "for-what-it-is-worth",
+        "year": "2023",
+        "title": "For What It's Worth",
+        "thumbnail": "https://jessdobkin.com/assets/images/forWhatItsWorth/forWhatItsWorth_one.jpg",
+        "description": "Installation as part of the exhibition, Milk. Commissioned by Wellcome Collection, London, UK. Curated by Honor Beddard and Marianne Templeton.",
+        "mainDescription": "Installation as part of the exhibition, Milk. Commissioned by Wellcome Collection, London, UK. Curated by Honor Beddard and Marianne Templeton.",
+        "images": [
+            "https://jessdobkin.com/assets/images/forWhatItsWorth/forWhatItsWorth_four.jpg",
+            "https://jessdobkin.com/assets/images/forWhatItsWorth/forWhatItsWorth_three.jpg",
+            "https://jessdobkin.com/assets/images/forWhatItsWorth/forWhatItsWorth_two.jpg"
+        ]
+    },
+    {
+        "id": "project-two",
+        "year": "2022",
+        "title": "Project Two",
+        "thumbnail": "https://jessdobkin.com/assets/images/oneNight/oneNight_one.jpeg",
+        "description": "A captivating exploration of fleeting moments and human connection.",
+        "images": [
+            "https://jessdobkin.com/assets/images/oneNight/oneNight_one.jpeg",
+            "https://jessdobkin.com/assets/images/oneNight/oneNight_one.jpeg"
+        ]
+    },
+    {
+        "id": "project-three",
+        "year": "2021",
+        "title": "Project Three",
+        "thumbnail": "https://jessdobkin.com/assets/images/performanceArtistForHire/performanceArtistForHire_one.jpeg",
+        "description": "A satirical take on commodifying creativity through performance art.",
+        "images": [
+            "https://jessdobkin.com/assets/images/performanceArtistForHire/performanceArtistForHire_one.jpeg",
+            "https://jessdobkin.com/assets/images/performanceArtistForHire/performanceArtistForHire_one.jpeg"
+        ]
+    },
+    {
+        "id": "project-four",
+        "year": "2020",
+        "title": "Project Four",
+        "thumbnail": "https://jessdobkin.com/assets/images/ourFuture/ourFuture_two.jpeg",
+        "description": "An immersive experience envisioning the possibilities of tomorrow.",
+        "images": [
+            "https://jessdobkin.com/assets/images/ourFuture/ourFuture_two.jpeg",
+            "https://jessdobkin.com/assets/images/ourFuture/ourFuture_two.jpeg"
+        ]
+    },
+    {
+        "id": "project-five",
+        "year": "2019",
+        "title": "Project Five",
+        "thumbnail": "https://jessdobkin.com/assets/images/sixDegrees/sixDegrees_one.jpg",
+        "description": "A dynamic project exploring the interconnectedness of human relationships.",
+        "images": [
+            "https://jessdobkin.com/assets/images/sixDegrees/sixDegrees_one.jpg",
+            "https://jessdobkin.com/assets/images/sixDegrees/sixDegrees_one.jpg"
+        ]
+    },
+    {
+        "id": "project-six",
+        "year": "2018",
+        "title": "Project Six",
+        "thumbnail": "https://jessdobkin.com/assets/images/feeForService/feeForService_two.jpeg",
+        "description": "A critical commentary on transactional interactions in modern society.",
+        "images": [
+            "https://jessdobkin.com/assets/images/feeForService/feeForService_two.jpeg",
+            "https://jessdobkin.com/assets/images/feeForService/feeForService_two.jpeg"
+        ]
+    }
+]

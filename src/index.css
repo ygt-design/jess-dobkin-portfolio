@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* make Roboto the default everywhere */
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 1rem 12.5rem;
+}
+
+/* make it responsive */
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+  }
+}
