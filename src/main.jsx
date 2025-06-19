@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import ScrollToTop from './components/ScrollToTop';
 import Home from './pages/Home';
-import ProjectDetail from './pages/projects/ProjectDetail';  // make sure this matches your file name
+import ProjectDetail from './pages/projects/ProjectsDetail';  // make sure this matches your file name
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
