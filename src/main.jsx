@@ -13,10 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <ScrollToTop />
       <NavBar />
       <Routes>
-        {/* Landing page */}
         <Route path="/" element={<Home />} />
-
-        {/* Dynamic project detail pages */}
         <Route path="/projects/:id" element={<ProjectDetail />} />
       </Routes>
     </BrowserRouter>
